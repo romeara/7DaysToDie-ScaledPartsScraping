@@ -1,0 +1,5 @@
+<items>
+  <!-- gunHandgunT1Pistol -->
+  <set xpath="/items/item[@name='gunHandgunT1Pistol']/property[@name='Weight']/@value">1,6</set>
+  <setattribute xpath="/items/item[@name='gunHandgunT1Pistol']/property[@name='Weight']" name="tier">1,6</setattribute> 
+</items>
