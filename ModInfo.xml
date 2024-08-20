@@ -1,0 +1,7 @@
+<xml>
+  <Name value="Scaled_Parts_Scraping"/>
+  <DisplayName value="Scaled Parts Scraping"/>
+  <Version value="0.0.0.1"/>
+  <Description value="Increases parts recovered by scraping weapons and tools relative to the quality of the item"/>
+  <Author value="romeara@github.com"/>
+</xml>
